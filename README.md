@@ -19,3 +19,4 @@ LGBM, a gradient-boosting algorithm optimized for speed and efficiency, was trai
 The notebooks inside this project are:
 1. N1_STAT_DTSE_AIS_unemployment_task - includes the EDA and the statistical modeling approaches
 2. N2_ML_DTSE_AIS_unemployment_task - containing the ML models developed for experimenting on the time series present in the dataset
+3. utils.py - some miscellaneous functions I did not wanted to include in the notebooks in order to keep them clean
